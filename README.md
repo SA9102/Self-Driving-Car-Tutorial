@@ -1,12 +1,12 @@
-# Self-Driving Car
+# :car: Self-Driving Car
 
 My work from a tutorial I am following, which teaches how to create a simulation of a car that drives on its own using neural networks. The tutorial does not use any machine learning libraries.
 
 The purpose of following this tutorial is to learn how neural networks work, which is an important part of machine learning.
 
-[Click here for demo](sa9102.github.io/Self-Driving-Car-Tutorial/)
-
 Use the arrow keys to control the car.
+
+[Click here for demo](https://sa9102.github.io/Self-Driving-Car-Tutorial/)
 
 [Click here for tutorial](https://www.youtube.com/playlist?list=PLB0Tybl0UNfYoJE7ZwsBQoDIG4YN9ptyY)
 
