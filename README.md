@@ -10,7 +10,11 @@ Use the arrow keys to control the car.
 
 [Click here for tutorial](https://www.youtube.com/playlist?list=PLB0Tybl0UNfYoJE7ZwsBQoDIG4YN9ptyY)
 
-## What I have learnt
+## Progress
+
+The first three videos have been completed so it is not yet finished. No machine learning algorithms have been included yet. The car simply gives out some yellow rays, which will later be used to detect objects in front of it. If the rays go beyond the road borders, the part of the rays outside the road will become black, meaning it has 'detected' an obstacle in front of it.
+
+## What I have learnt so far
 
 - How to use linear interpolation to create rays.
 - How to get the coordinates of the intersection between two lines (uses linear interpolation). Used in ray casting.
